@@ -4,3 +4,13 @@
     color:white;
 
 }
+.links{
+    list-style-type: none;
+}
+
+.a, .h2{
+font: size 48px;
+color:#F9FAF8;
+background: #1f2937;
+
+}
